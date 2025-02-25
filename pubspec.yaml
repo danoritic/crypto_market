@@ -14,7 +14,7 @@ dependencies:
   get: ^4.6.5
   http: ^0.13.4
   k_chart: ^0.6.0
-  fl_chart: ^0.62.0
+  fl_chart: 
 
 dev_dependencies:
   flutter_test:
